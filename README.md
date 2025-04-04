@@ -1,2 +1,0 @@
-# Kobra
-Hacker
